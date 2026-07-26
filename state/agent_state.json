@@ -1,56 +1,11 @@
 {
   "schema_version": 2,
-  "cycle": 1,
-  "last_score": 79.746,
+  "cycle": 0,
+  "last_score": null,
   "last_accepted_at": null,
-  "last_model": "Qwen/Qwen2.5-Coder-3B-Instruct-GGUF",
-  "reviewed_equations": [
-    "1.8",
-    "1.13",
-    "1.14",
-    "4.3",
-    "4.4",
-    "4.5",
-    "4.6",
-    "4.7"
-  ],
-  "implemented_equations": [
-    "1.1",
-    "1.2",
-    "1.3",
-    "1.4",
-    "1.5",
-    "1.6",
-    "1.7",
-    "1.9",
-    "1.10",
-    "1.11",
-    "1.12",
-    "4.1",
-    "4.2",
-    "7.2",
-    "7.3",
-    "7.4",
-    "12.1"
-  ],
-  "failed_attempts": 1,
-  "history": [
-    {
-      "time": "2026-07-26T04:46:49.966711+00:00",
-      "accepted": false,
-      "score_before": 79.746,
-      "score_after": 79.746,
-      "targets": [
-        "1.8",
-        "1.13",
-        "1.14",
-        "4.3",
-        "4.4",
-        "4.5",
-        "4.6",
-        "4.7"
-      ],
-      "message": "本轮候选未同时满足安全、测试、模拟和得分增益门槛，已全部回退。"
-    }
-  ]
+  "last_model": null,
+  "reviewed_equations": [],
+  "implemented_equations": ["1.1", "1.2", "1.3", "1.4", "1.5", "1.6", "1.7", "1.9", "1.10", "1.11", "1.12", "4.1", "4.2", "7.2", "7.3", "7.4", "12.1"],
+  "failed_attempts": 0,
+  "history": []
 }

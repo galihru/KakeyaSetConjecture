@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: xuexi-kakeya-agent
-Version: 2.0.0
+Version: 2.3.0
 Summary: 基于本地代码模型的三维 Kakeya 数值研究与自我审查代理。
 Requires-Python: >=3.11
 Description-Content-Type: text/markdown
@@ -9,6 +9,7 @@ Requires-Dist: numpy>=2.0
 Requires-Dist: plotly>=6.0
 Requires-Dist: matplotlib>=3.9
 Requires-Dist: pillow>=10.0
+Requires-Dist: imageio-ffmpeg>=0.5.1
 Requires-Dist: PyYAML>=6.0
 Requires-Dist: PyMuPDF>=1.24
 Provides-Extra: dev
