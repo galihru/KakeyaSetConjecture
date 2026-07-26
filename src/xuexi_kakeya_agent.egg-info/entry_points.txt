@@ -1,0 +1,3 @@
+[console_scripts]
+kakeya-sim = kakeya_sim.cli:main
+xuexi-agent = xuexi_agent.cli:main

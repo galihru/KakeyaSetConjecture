@@ -1,0 +1,12 @@
+numpy>=2.0
+plotly>=6.0
+matplotlib>=3.9
+pillow>=10.0
+PyYAML>=6.0
+PyMuPDF>=1.24
+
+[dev]
+pytest>=8.0
+
+[research]
+huggingface_hub>=0.30
